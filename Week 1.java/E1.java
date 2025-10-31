@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class climbStairs{
+public class E1{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the steps:");
@@ -19,3 +19,4 @@ public static int climbStairs(int n) {
     return steps[n];
     }
 }
+
